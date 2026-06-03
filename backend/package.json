@@ -14,7 +14,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "devDependencies": {
     "nodemon": "^3.1.14"
   },
