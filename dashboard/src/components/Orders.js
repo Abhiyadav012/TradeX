@@ -7,7 +7,7 @@ const Orders = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:3002/allOrders", {
+      .get("https://tradex-u12x.onrender.com/allOrders", {
         headers: {
           token: localStorage.getItem("token"),
         },
