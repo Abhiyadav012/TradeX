@@ -5,16 +5,13 @@ A full-stack stock trading platform inspired by Zerodha, built using React.js, N
 ## Live Demo
 
 ### Frontend
-
-https://tradex-frontend-1s53.onrender.com
+[Live Frontend](https://tradex-frontend-1s53.onrender.com)
 
 ### Dashboard
-
-https://tradex-dashboard-v1w2.onrender.com
+[Live Dashboard](https://tradex-dashboard-v1w2.onrender.com)
 
 ### Backend API
-
-https://tradex-u12x.onrender.com
+[Backend API](https://tradex-u12x.onrender.com)
 
 ## Features
 
@@ -58,6 +55,25 @@ TradeX/
 * Advanced Analytics
 * Watchlist Persistence
 * Responsiveness
+
+## Home Page
+
+![Home Page](screenshots/landing-page.png)
+
+## Login Page
+![Login Page](screenshots/login-page.png)
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Orders
+![orders](screenshots/orders.png)
+
+## Holdings
+
+![Holdings](screenshots/holdings.png)
+
 
 ## Author
 
