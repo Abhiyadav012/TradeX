@@ -6,7 +6,7 @@ function Login() {
   const [password, setPassword] = useState("");
 
   const handleLogin = () => {
-    window.location.href = "http://localhost:3001";
+    window.location.href = "https://tradex-dashboard-v1w2.onrender.com";
   };
 
   return (

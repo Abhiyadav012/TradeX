@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
  const handleDashboard = () => {
-  window.location.href = "http://localhost:3001";
+  window.location.href = "https://tradex-dashboard-v1w2.onrender.com";
 };
   return (
     <nav
